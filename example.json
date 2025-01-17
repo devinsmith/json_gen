@@ -1,0 +1,11 @@
+{
+  "test1": {
+    "boolean": false,
+    "property": null,
+    "array": [
+      { "abc": 1234,
+        "def": "xyz"
+      }
+    ]
+  }
+}
