@@ -27,7 +27,7 @@ The output is sent to stdout and should be redirected to a file.
 }
 ```
 
-```
+```c
 cJSON *root = cJSON_CreateObject();
 cJSON *root_test1 = cJSON_CreateObject();
 cJSON *root_test1_boolean = cJSON_CreateBool(0);
