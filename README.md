@@ -1,6 +1,6 @@
 # json\_gen
 
-JSON code generation for C and C++. This tool process input JSON and generates
+JSON code generation for C and C++. This tool processes input JSON and generates
 C code for using Dave Gamble's cJSON library to create the same JSON input.
 
 The output is sent to stdout and should be redirected to a file.
